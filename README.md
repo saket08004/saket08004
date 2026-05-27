@@ -75,12 +75,10 @@ Interactive AR dashboard tracking overdue invoices, DSO, ageing buckets, and col
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saket08004&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket08004&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=saket08004&style=flat-square&color=0A66C2&label=Profile+Views" />
 </p>
 
 ---
