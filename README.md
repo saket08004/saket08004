@@ -68,7 +68,7 @@ Exploratory analysis on a 7,000+ record telecom dataset to identify churn driver
 
 ---
 
-### 📊 [Accounts Receivable Analytics Dashboard](https://github.com/saket08004/Accounts-Receivable-Dashboard)
+### 📊 [Accounts Receivable Analytics Dashboard](https://github.com/saket08004/Accounts-Receivable-Analysis-Dashboard))
 > **Excel · Power Query · KPI Reporting · Financial Analytics**
 
 Interactive AR dashboard tracking overdue invoices, DSO, ageing buckets, and collection efficiency. Automated data refresh via Power Query; AR-to-GL reconciliation included.
