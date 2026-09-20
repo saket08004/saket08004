@@ -9,6 +9,7 @@
 
 <p align="center">
   Uttar Pradesh, India &nbsp;|&nbsp;
+  <a href="https://github.com/saket08004">github.com/saket08004</a>
 </p>
 
 ---
@@ -94,9 +95,9 @@ I'm a fresher who learns by building, and I'm looking for a Data Analyst or Busi
 
 ## CERTIFICATIONS
 
-- **Google Data Analytics Professional Certificate — Google/Coursera:** data cleaning, SQL, Python, Tableau, spreadsheets, data visualization, and case-study analysis.
-- **Deloitte Australia Data Analytics Job Simulation — Forage:** data analysis, forensic technology, Tableau dashboard design, and Excel-based data classification.
-- **SQL Bootcamp Certification — Udemy:** joins, CTEs, subqueries, window functions, stored procedures, indexing, and query optimization.
+- **[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/WNEHNCDSI1CY) — Google/Coursera:** data cleaning, SQL, Python, Tableau, spreadsheets, data visualization, and case-study analysis.
+- **[Deloitte Australia Data Analytics Job Simulation](https://www.linkedin.com/posts/saket-tripathi_dataanalytics-deloitte-forage-activity-7505943736670158849-jZxo) — Forage:** data analysis, forensic technology, Tableau dashboard design, and Excel-based data classification.
+- **[SQL Bootcamp Certification](https://www.linkedin.com/posts/saket-tripathi_sql-dataanalytics-dataanalyst-activity-7462504088899915777-mdAR) — Udemy:** joins, CTEs, subqueries, window functions, stored procedures, indexing, and query optimization.
 
 ---
 
