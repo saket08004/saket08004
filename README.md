@@ -3,9 +3,12 @@
 <h3 align="center">DATA ANALYST</h3>
 
 <p align="center">
-  <a href="mailto:saket08004@gmail.com">saket08004@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/saket-tripathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saket08004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   Uttar Pradesh, India &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/saket-tripathi">linkedin.com/in/saket-tripathi</a> &nbsp;|&nbsp;
   <a href="https://github.com/saket08004">github.com/saket08004</a>
 </p>
 
