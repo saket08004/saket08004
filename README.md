@@ -9,7 +9,6 @@
 
 <p align="center">
   Uttar Pradesh, India &nbsp;|&nbsp;
-  <a href="https://github.com/saket08004">github.com/saket08004</a>
 </p>
 
 ---
